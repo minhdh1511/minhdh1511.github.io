@@ -1,0 +1,27 @@
+.hero-section {
+    height: 50vh;
+    background-image: linear-gradient(#819A91, white);
+}
+
+.page-section-index {
+    margin-top: 20px;
+    margin-bottom: 150px;
+}
+
+#programming-icon-index {
+    width: 250px;
+    height: 250px;
+}
+
+.desc-text-index {
+    text-align: justify;
+}
+
+.card-project {
+    max-width: 30rem;
+}
+
+.card-img-top {
+    height: 200px;
+    object-fit: cover;
+}
